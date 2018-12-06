@@ -2,12 +2,12 @@
 <resources>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
-    <string name="abc_capital_off">OFF</string>
-    <string name="abc_capital_on">ON</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Feito</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todos</string>
+    <string name="abc_activitychooserview_choose_application">Escolha um app</string>
+    <string name="abc_capital_off">DESL</string>
+    <string name="abc_capital_on">LIG</string>
     <string name="abc_font_family_body_1_material">sans-serif</string>
     <string name="abc_font_family_body_2_material">sans-serif-medium</string>
     <string name="abc_font_family_button_material">sans-serif-medium</string>
@@ -20,10 +20,10 @@
     <string name="abc_font_family_menu_material">sans-serif</string>
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
-    <string name="abc_search_hint">Search…</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_search_hint">Pesquisar...</string>
+    <string name="abc_searchview_description_clear">Limpar termo</string>
+    <string name="abc_searchview_description_query">Pesquisar termo</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
     <string name="abc_searchview_description_submit">Submit query</string>
     <string name="abc_searchview_description_voice">Voice search</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
